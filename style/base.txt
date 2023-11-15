@@ -1,0 +1,52 @@
+/* ----------------------- */
+/* -- BODY y CONSTANTES -- */
+/* ----------------------- */
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color: #fff;
+}
+p {
+    line-height: 1.5;
+    font-size: 1.1rem;
+}
+
+/* ------------ */
+/* -- HEADER -- */
+/* ------------ */
+#header {}
+/*--------------*/
+#div_barra_busqueda {}
+/*--------------*/
+#div_logotipo_header {}
+#img_logotipo {}
+/*--------------*/
+#div_articulo_destacado {}
+
+
+/* ---------- */
+/* -- MAIN -- */
+/* ---------- */
+#main {}
+/*--------------*/
+#article_main_1 {}
+#novedades_lat_izquierdo {}
+/*--------------*/
+#section_main {}
+#section_principal {}
+/*--------------*/
+#article_main_2 {}
+#anuncio_lat_derecho {}
+
+
+/* ------------ */
+/* -- FOOTER -- */
+/* ------------ */
+#footer {}
+/*--------------*/
+#div_footer_1 {}
+#div_footer_2 {}
+#div_footer_3 {}
